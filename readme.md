@@ -2,6 +2,8 @@
 # Learning JS Day-1
 Day 1 Contain 6 Files and That FIles Container Diffrent Problems And There Solution
 
+## 👉 [Click Here For Live Preview (DAY_1)](https://day1-js-access-all.netlify.app/)
+
 ## Basic Exercise
 
 Exercise 1:
